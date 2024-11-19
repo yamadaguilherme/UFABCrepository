@@ -10,8 +10,8 @@ Fazer um modulo (funcao) chamado calculaDinheiro que recebe como parametros um v
 de cada um dos tipos de cedula (1, 7, 8, 13, 33). Essa funcao deve retornar – para cada valor de cedula existente – a
 quantidade mınima de cedulas de JabuticabaCoins necessaria para formar esse valor.
 Atencao: o uso de funcoes e obrigatorio, a sua nao utilizacao implica em anulacao da questao.
-
 '''
+
 def entrada():
     global total
     total = int(input())
