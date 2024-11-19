@@ -8,6 +8,7 @@ Entradas:
 5.300
 Saıda:
 K = 0.045
+'''
 
 D = float(input())
 I = float(input())
