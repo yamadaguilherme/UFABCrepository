@@ -6,7 +6,8 @@
 #Entrada lida com o comando input:
 #3600
 #Sa ́ıda correspondente `a entrada:
-#01:00:00'''
+#01:00:00
+'''
 
 x = int(input())
 h = x//3600
