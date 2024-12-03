@@ -8,3 +8,6 @@ Introdução a algoritmos. Variáveis e tipos de dados. Operadores aritméticos,
 
 # 🚀 Objetivo
 Este repositório tem como intuito revisar, organizar e demonstrar minha evolução na programação, as resoluções das listas foram totalmente programadas por mim durante o quadrimestre na matéria.
+
+# 🔎 Provas
+As questões da prova não foram incluídas neste portfólio por uma questão de ética e responsabilidade. Essa decisão foi tomada para evitar qualquer risco de vazamento ou compartilhamento indevido do conteúdo, que poderia comprometer a integridade do processo avaliativo.
